@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="App_Aranor_Hunn:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/App_Aranor_Hunn_jar</output-path>
+    <root id="archive" name="App_Aranor_Hunn.jar">
+      <element id="module-output" name="App_Aranor_Hunn" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/sqlite-jdbc-3.41.2.1.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/bdd_aranor_hunn.db" />
+    </root>
+  </artifact>
+</component>
